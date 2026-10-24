@@ -1,8 +1,11 @@
 ---
 created: 2026-10-03T15:58
-updated: 2026-10-23T23:20
+updated: 2026-10-24T10:57
 title: compounding (复利)
 publish: true
+tags:
+  - futures
+  - interest-rate
 ---
 
 $$

@@ -1,7 +1,10 @@
 ---
 created: 2026-10-12T14:42
-updated: 2026-10-23T23:20
+updated: 2026-10-24T10:57
 publish: true
+tags:
+  - futures
+  - interest-rate
 ---
 zero rate 不是说不付息，而是到期一起还本付息，期内不支付利息。
 

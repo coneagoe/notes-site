@@ -1,8 +1,11 @@
 ---
 created: 2026-10-10T15:08
-updated: 2026-10-23T23:20
+updated: 2026-10-24T10:57
 title: continuous compounding (连续复利)
 publish: true
+tags:
+  - futures
+  - interest-rate
 ---
 当 compounding frequency `m` 趋于无穷大时（每时每刻都在复利），对应的利率称为 `continuous compounding`（连续复利）。
 
