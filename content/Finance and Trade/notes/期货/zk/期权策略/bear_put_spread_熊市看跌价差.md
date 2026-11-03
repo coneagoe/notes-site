@@ -1,6 +1,6 @@
 ---
 created: 2026-11-03T14:26
-updated: 2026-11-03T16:44
+updated: 2026-11-03T16:50
 title: Bear Put Spread（熊市看跌价差）
 publish: true
 ---
@@ -60,7 +60,7 @@ $$
 
 若只买 5600 Put，$BE = 5600 - 150 = 5450$。
 
-![[bear_put_spread_payoff_20261029200718.png]]
+![[bear_put_spread_payoff_20261103165000.png]]
 
 
 ## 参见
