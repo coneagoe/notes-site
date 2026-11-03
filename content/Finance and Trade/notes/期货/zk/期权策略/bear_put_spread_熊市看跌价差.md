@@ -1,6 +1,6 @@
 ---
 created: 2026-11-03T14:26
-updated: 2026-11-03T16:50
+updated: 2026-11-03T17:00
 title: Bear Put Spread（熊市看跌价差）
 publish: true
 ---
@@ -65,4 +65,5 @@ $$
 
 ## 参见
 
+- [[bear_call_spread_vs_bear_put_spread]]（与 Bear Call Spread 的差别与选型）
 - [[12. Bear Put Spread（熊市看跌价差）]]
