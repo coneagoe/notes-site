@@ -3,6 +3,9 @@ title: contract size (合约规模 / 交易单位)
 updated: 2026-11-04T14:26
 created: 2024-02-17T19:13:24
 publish: true
+tags:
+  - futures
+  - contract-specs
 ---
 
 也叫**交易单位**，指一份合约对应的[[asset_标的资产|标的资产]]数量。

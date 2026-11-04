@@ -3,6 +3,9 @@ title: tick value (点值)
 updated: 2026-11-04T14:59
 created: 2026-11-04T11:47
 publish: true
+tags:
+  - futures
+  - contract-specs
 ---
 
 期货价格每跳一个点，对应一手合约涨跌多少钱。

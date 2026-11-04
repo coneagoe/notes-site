@@ -3,6 +3,9 @@ title: asset (标的资产)
 updated: 2026-11-04T14:24
 created: 2024-02-17T14:11:42
 publish: true
+tags:
+  - futures
+  - underlying-asset
 ---
 
 期货合约基于某一资产开发而成；该资产称为合约的**标的资产**（underlying asset）。

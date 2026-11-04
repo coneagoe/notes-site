@@ -3,6 +3,10 @@ title: 交易品种 vs 标的资产
 updated: 2026-11-04T14:23
 created: 2026-11-04T10:25
 publish: true
+tags:
+  - futures
+  - underlying-asset
+  - contract-specs
 ---
 
 - 对于 [[金融期货]]，[[交易品种]] 和 [[asset_标的资产|标的资产]] 很好区分，因为两者名字不同。
