@@ -9,6 +9,9 @@ publish: true
 
 - [[asset_标的资产]]
 - [[contract_size_合约规模]]
+- [[exchange_上市交易所]]
+- [[tick_size_最小变动价位]]
+- [[tick_value_点值]]
 - [[交易代码]]
 - [[交易品种]]
 - [[交易品种vs标的资产]]
