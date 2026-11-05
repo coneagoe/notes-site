@@ -25,6 +25,7 @@ publish: true
 - [[bear_call_spread_熊市看涨价差]]
 - [[bear_put_spread_熊市看跌价差]]
 - [[long_strangle_买入宽跨式]]
+- [[权利金计算]]
 - [[1_from_poweron_to_bootloader]]
 - [[2_boot_mode_pin]]
 - [[3_power-on_reset_POR_procedure]]
