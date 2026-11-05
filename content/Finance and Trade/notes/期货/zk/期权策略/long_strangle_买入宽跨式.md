@@ -1,6 +1,6 @@
 ---
 created: 2026-11-03T19:50
-updated: 2026-11-05T10:28
+updated: 2026-11-05T14:12
 title: Long Strangle（买入宽跨式）
 publish: true
 ---
@@ -28,7 +28,7 @@ publish: true
 有限，等于 **净权利金**（`net debit`）
 
 $$
-\text{最大风险} = \text{净权利金} \times \text{手数} \times \text{合约乘数}
+\text{最大风险} = \text{净权利金} \times \text{手数} \times \text{contract size}
 $$
 
 最大亏损落在两个行权价之间（含两端）：两腿到期均无内在价值。
@@ -48,7 +48,7 @@ $$
 
 ## 例子
 
-假设 Nifty 现价 5500、合约乘数 50；买入 1 手行权价 5400、权利金 40 的 Put；买入 1 手行权价 5600、权利金 60 的 Call。
+假设 Nifty 现价 5500、`contract size`（lot size）50；买入 1 手行权价 5400、权利金 40 的 Put；买入 1 手行权价 5600、权利金 60 的 Call。
 
 $$
 \begin{align*}
@@ -71,6 +71,4 @@ $$
 
 ## 参见
 
-- [[跨式与宽跨式：只对波动率下注]]（跨式 / 宽跨式买卖对照）
-- [[带方向的买波动：Strap、Strip 与 Backspread]]（买波动且带方向）
 - [[16. Long Strangle（买入宽跨式组合）]]
