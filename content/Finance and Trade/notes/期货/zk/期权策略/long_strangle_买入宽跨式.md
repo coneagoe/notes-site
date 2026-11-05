@@ -1,6 +1,6 @@
 ---
 created: 2026-11-03T19:50
-updated: 2026-11-05T16:57
+updated: 2026-11-05T17:08
 title: Long Strangle（买入宽跨式）
 publish: true
 ---
@@ -18,10 +18,6 @@ publish: true
 
 > [!Caution]
 > 两腿必须是同一标的、同一到期月。
-
-## 相对买入跨式
-
-相对 [[buy_straddle_买入跨式|Long Straddle]]，宽跨式把两条腿都改成虚值，建仓更便宜；代价是盈亏平衡点离现价更远，标的需要走出更大波动才开始赚钱。同属只对波动率下注的结构，见 [[跨式与宽跨式：只对波动率下注]]。
 
 ## 风险
 
@@ -64,12 +60,11 @@ $$
 - 低于 5300 或高于 5700：整体有利
 - 离开 BE 越远，盈利随距离增大
 
-若改买同一行权价的跨式（如 5500 Call + 5500 Put），净付通常更高，但 BE 更靠近现价，较小波动即可翻盈。
-
 ![[long_strangle_payoff_20261029201456.png]]
 
 
 ## 参见
 
+- [[buy_straddle_vs_long_strangle]]（与 Buy Straddle 的差别与选型）
 - [[buy_straddle_买入跨式]]
 - [[16. Long Strangle（买入宽跨式组合）]]
