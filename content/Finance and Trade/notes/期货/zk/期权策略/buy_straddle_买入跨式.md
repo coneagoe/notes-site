@@ -1,6 +1,6 @@
 ---
 created: 2026-11-05T16:57
-updated: 2026-11-05T19:53
+updated: 2026-11-05T20:08
 title: Buy Straddle（买入跨式）
 publish: true
 ---
@@ -45,12 +45,12 @@ $$
 \end{align*}
 $$
 
-### 期权包 BE
+### 期权组合 BE
 
 实际上，很多时候我们不行权，而是直接平仓期权组合。此时盈亏是权利金差价，BE 为：
 
 $$
-\text{卖出 Call 价} + \text{卖出 Put 价} \ge \text{净权利金}
+\text{净权利金}_{curr} \ge \text{净权利金}_{init}
 $$
 
 （再扣手续费/滑点。）
