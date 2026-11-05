@@ -1,6 +1,6 @@
 ---
 created: 2026-11-05T16:57
-updated: 2026-11-05T20:28
+updated: 2026-11-05T20:20
 title: Buy Straddle（买入跨式）
 publish: true
 ---
@@ -49,21 +49,33 @@ $$
 
 ### 期权组合 BE（提前平仓）
 
-实务上多半不行使、而是卖掉两腿平仓。盈亏是权利金差价，**只有一个** BE：
+实际上，很多时候我们不行权，而是直接平仓期权组合。此时盈亏是权利金差价，BE 为：
 
 $$
-\text{净权利金}_{curr} \ge \text{净权利金}_{init}
+\text{净权利金}_{curr} \ge \text{净权利金}_{init} \\
+C_{curr} + P_{curr} \ge C_{init} + P_{init}
 $$
 
-即 \(C_{curr} + P_{curr} \ge C_{init} + P_{init}\)（未计手续费/滑点）。
+（未计手续费/滑点）。
 
-上涨或下跌只是同一条件的路径视角，不是两条独立 BE；对侧腿现价仍是变量：
+具体来说
 
-- 上涨路径（Call 涨、Put 跌）：看 Call 升值是否盖住 Put 贬值与总成本 → \(C_{curr} \ge C_{init} + P_{init} - P_{curr}\)
-- 下跌路径（Put 涨、Call 跌）：看 Put 升值是否盖住 Call 贬值与总成本 → \(P_{curr} \ge C_{init} + P_{init} - C_{curr}\)
+- 上方 BE
+
+$$
+C_{curr} \ge C_{init} + P_{init} - P_{curr}
+$$
+
+- 下方 BE
+
+$$
+P_{curr} \ge C_{init} + P_{init} - C_{curr}
+$$
+
+即上涨一方的权利金要覆盖初始权利金 + 另一个权利金的缩水
 
 > [!Note]
-> 盘中**没有**一个像到期那样固定的标的 BE：同样涨跌幅，IV 升、时间尚早可能已赚；IV crush / 时间衰减可能标的已过 `K ± 净权利金` 仍亏。提前离场盯组合权利金是否回本；到期分析才用标的 BE。
+> 盘中**没有**一个像到期那样固定的标的 BE：同样涨跌幅，IV 升、时间尚早可能已赚；IV crush / 时间衰减可能标的已过 $K \pm \text{净权利金}$ 仍亏。提前离场盯组合权利金是否回本；到期分析才用标的 BE。
 
 ## 例子
 
