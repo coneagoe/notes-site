@@ -1,6 +1,6 @@
 ---
 created: 2026-11-03T16:28
-updated: 2026-11-04T20:17
+updated: 2026-11-05T16:27
 title: Bear Call Spread（熊市看涨价差）
 publish: true
 ---
@@ -25,15 +25,19 @@ publish: true
 
 ## 风险
 
-有限：
+有限
 
 $$
-\text{最大风险} = (\text{行权价差} - \text{净权利金}) \times \text{手数}
+\text{最大损失} = (\text{行权价差} - \text{净权利金}) \times \text{手数}
 $$
 
 ## 收益
 
-有限，等于 **净权利金**（`net credit`）
+有限
+
+$$
+\text{最大收益} = \text{净权利金} \times \text{手数}
+$$
 
 ## 盈亏平衡点
 

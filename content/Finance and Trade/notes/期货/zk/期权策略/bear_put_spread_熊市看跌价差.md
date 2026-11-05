@@ -1,6 +1,6 @@
 ---
 created: 2026-11-03T14:26
-updated: 2026-11-03T17:00
+updated: 2026-11-05T16:26
 title: Bear Put Spread（熊市看跌价差）
 publish: true
 ---
@@ -26,6 +26,10 @@ publish: true
 ## 风险
 
 有限，等于 **净权利金**（`net debit`）
+
+$$
+\text{最大损失} = \text{净权利金} \times \text{手数}
+$$
 
 ## 收益
 

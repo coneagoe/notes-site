@@ -1,6 +1,6 @@
 ---
 created: 2026-11-03T19:50
-updated: 2026-11-05T15:44
+updated: 2026-11-05T16:27
 title: Long Strangle（买入宽跨式）
 publish: true
 ---
@@ -25,7 +25,11 @@ publish: true
 
 ## 风险
 
-有限，等于 **净权利金**（`net debit`）
+有限
+
+$$
+\text{最大损失} = \text{净权利金} \times \text{手数}
+$$
 
 最大亏损落在两个行权价之间（含两端）：两腿到期均无内在价值。
 
