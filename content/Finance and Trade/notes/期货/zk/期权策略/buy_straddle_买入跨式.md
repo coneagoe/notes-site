@@ -1,6 +1,6 @@
 ---
 created: 2026-11-05T16:57
-updated: 2026-11-05T20:09
+updated: 2026-11-05T20:18
 title: Buy Straddle（买入跨式）
 publish: true
 ---
@@ -54,6 +54,15 @@ $$
 $$
 
 （这里没有算手续费、滑点。）
+
+具体来说
+
+- 上方 BE
+
+$$
+C_{curr} + P_{curr} \gt C_{init} + P_{init} \\
+C_{curr} \gt C_{init} + P_{init} - P_{curr}
+$$
 
 > [!Note]
 > 盘中**没有**一个像到期那样固定的标的 BE：同样涨跌幅，IV 升、时间尚早可能已赚；IV crush / 时间衰减可能标的已过 `K ± 净权利金` 仍亏。提前离场盯的是组合权利金是否回本；到期分析才用标的 BE。
