@@ -1,6 +1,6 @@
 ---
 created: 2026-11-05T16:57
-updated: 2026-11-05T20:18
+updated: 2026-11-05T20:20
 title: Buy Straddle（买入跨式）
 publish: true
 ---
@@ -60,8 +60,15 @@ $$
 - 上方 BE
 
 $$
-C_{curr} + P_{curr} \gt C_{init} + P_{init} \\
-C_{curr} \gt C_{init} + P_{init} - P_{curr}
+C_{curr} + P_{curr} \ge C_{init} + P_{init} \\
+C_{curr} \ge C_{init} + P_{init} - P_{curr}
+$$
+
+- 下方 BE
+
+$$
+C_{curr} + P_{curr} \ge C_{init} + P_{init} \\
+P_{curr} \ge C_{init} + P_{init} - C_{curr}
 $$
 
 > [!Note]
