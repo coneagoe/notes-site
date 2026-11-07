@@ -1,6 +1,6 @@
 ---
 title: contract size (合约规模 / 交易单位)
-updated: 2026-11-04T14:26
+updated: 2026-11-07T23:21
 created: 2024-02-17T19:13:24
 publish: true
 tags:
@@ -26,3 +26,4 @@ tags:
 ## 参见
 
 - [[2.2.2 The Contract Size]]
+- [[查看期货合约]]

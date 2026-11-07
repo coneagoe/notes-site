@@ -1,6 +1,6 @@
 ---
 title: exchange (上市交易所)
-updated: 2026-11-04T15:04
+updated: 2026-11-07T23:23
 created: 2026-11-04T11:41
 publish: true
 tags:
@@ -17,3 +17,8 @@ tags:
 - 大连商品交易所（大商所，DCE）
 - 郑州商品交易所（郑商所，CZCE）
 - 中国金融期货交易所（中金所，CFFEX）
+
+
+## 参见
+
+- [[查看期货合约]]

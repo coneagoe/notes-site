@@ -1,6 +1,6 @@
 ---
 title: tick value (点值)
-updated: 2026-11-07T20:44
+updated: 2026-11-07T23:20
 created: 2026-11-04T11:47
 publish: true
 tags:
@@ -8,7 +8,7 @@ tags:
   - contract-specs
 ---
 
-期货价格每跳一个点，对应一手合约涨跌多少钱。
+价格每跳动一个点，一手期货合约对应涨跌多少钱。
 
 点值 = [[contract_size_合约规模_交易单位|合约规模]] × [[tick_size_最小变动价位|最小变动价位]]
 
