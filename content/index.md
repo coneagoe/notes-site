@@ -36,6 +36,7 @@ publish: true
 - [[无限易套利设置]]
 - [[bear_call_spread_熊市看涨价差]]
 - [[bear_put_spread_熊市看跌价差]]
+- [[bull_call_spread_牛市看涨价差]]
 - [[buy_straddle_买入跨式]]
 - [[long_strangle_买入宽跨式]]
 - [[权利金计算]]
