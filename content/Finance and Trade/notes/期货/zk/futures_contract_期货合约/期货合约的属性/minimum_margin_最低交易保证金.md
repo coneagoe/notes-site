@@ -1,6 +1,6 @@
 ---
 title: minimum margin (最低交易保证金)
-updated: 2026-11-08T11:59
+updated: 2026-11-08T12:02
 created: 2026-11-07T23:27
 tags:
   - futures
@@ -31,7 +31,6 @@ publish: true
 
 ## 参见
 
-- [[margin_ratio_保证金比例]]
 - [[initial_margin_初始保证金]]
 - [[maintenance margin]]
 - [[2.4.1 Daily Settlement]]
