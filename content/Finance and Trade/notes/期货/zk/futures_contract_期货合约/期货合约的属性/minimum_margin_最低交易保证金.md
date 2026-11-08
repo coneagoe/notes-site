@@ -1,6 +1,6 @@
 ---
 title: minimum margin (最低交易保证金)
-updated: 2026-11-08T11:51
+updated: 2026-11-08T11:59
 created: 2026-11-07T23:27
 tags:
   - futures
@@ -23,9 +23,6 @@ publish: true
 
 > [!Note]
 > 这里我们是按“交易所 + 0”计算的。如果是“交易所 + 3”，则为 639.1 × 1000 × 23% = 146993 元。
-
-> [!Caution]
-> 波动加大时交易所会上调保证金比例。
 
 
 > [!note] 与 Hull 用语别混
