@@ -14,6 +14,8 @@ publish: true
 - [[grade_商品等级]]
 - [[last_delivery_day_最后交割日]]
 - [[last_trading_day_最后交易日]]
+- [[margin_ratio_保证金比例]]
+- [[minimum_margin_最低交易保证金]]
 - [[position_limit_头寸限制]]
 - [[price_limit_涨跌停限制]]
 - [[price_quote_报价方式]]
