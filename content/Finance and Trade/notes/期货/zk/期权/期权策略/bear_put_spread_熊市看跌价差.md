@@ -1,6 +1,6 @@
 ---
 created: 2026-11-03T14:26
-updated: 2026-11-05T16:26
+updated: 2026-11-09T19:30
 title: Bear Put Spread（熊市看跌价差）
 publish: true
 ---
@@ -30,6 +30,9 @@ publish: true
 $$
 \text{最大损失} = \text{净权利金} \times \text{手数}
 $$
+
+> [!caution] 量纲
+> 本文权利金和 BE 计算采用同一量纲（点 / 价格），不乘 [[contract_size_合约规模_交易单位|合约规格]] 。换算金额参见 [[权利金计算]]。
 
 ## 收益
 
