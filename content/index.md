@@ -42,6 +42,7 @@ publish: true
 - [[buy_straddle_买入跨式]]
 - [[long_strangle_买入宽跨式]]
 - [[sell_call_卖出看涨]]
+- [[sell_put_卖出看跌]]
 - [[权利金计算]]
 - [[1_from_poweron_to_bootloader]]
 - [[2_boot_mode_pin]]
