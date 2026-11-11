@@ -38,7 +38,7 @@ publish: true
 - [[期权买方vs期权卖方]]
 - [[bear_call_spread_熊市看涨价差]]
 - [[bear_put_spread_熊市看跌价差]]
-- [[bull_call_spread_牛市看涨价差]]
+- [[bull_call_spread]]
 - [[buy_call_买入看涨]]
 - [[buy_put_买入看跌]]
 - [[buy_straddle_买入跨式]]

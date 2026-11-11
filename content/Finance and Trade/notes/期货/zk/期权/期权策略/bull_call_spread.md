@@ -1,12 +1,12 @@
 ---
 created: 2026-11-08T19:37
-updated: 2026-11-11T15:28
-title: Bull Call Spread（牛市看涨价差）
+updated: 2026-11-11T15:47
+title: Bull Call Spread
 publish: true
 ---
 ## 适用场景
 
-短期、中度看涨
+短期、中度<mark>看涨</mark>
 
 ## 构造方式
 
@@ -93,4 +93,4 @@ $$
 ## 参见
 
 - [[buy_straddle_买入跨式]]
-- [[9. Bull Call Spread（牛市看涨价差）]]
+- [[9. Bull Call Spread]]
