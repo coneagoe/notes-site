@@ -42,7 +42,7 @@ publish: true
 - [[bull_call_spread]]
 - [[buy_call_买入看涨]]
 - [[buy_put_买入看跌]]
-- [[buy_straddle_买入跨式]]
+- [[buy_straddle]]
 - [[long_strangle_买入宽跨式]]
 - [[sell_call_卖出看涨]]
 - [[sell_put_卖出看跌]]

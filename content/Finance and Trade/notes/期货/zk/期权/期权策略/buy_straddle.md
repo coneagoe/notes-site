@@ -1,7 +1,7 @@
 ---
 created: 2026-11-05T16:57
-updated: 2026-11-11T16:36
-title: Buy Straddle（买入跨式）
+updated: 2026-11-11T16:57
+title: Buy Straddle
 publish: true
 ---
 ## 适用场景
@@ -98,7 +98,7 @@ $$
 - 低于 5400 或高于 5600：整体有利
 - 离开 BE 越远，盈利随距离增大
 
-![[buy_straddle_payoff_20261105170500.png]]
+![[buy_straddle_payoff_20261111164633.png]]
 
 
 ## 参见

@@ -1,6 +1,6 @@
 ---
 created: 2026-11-03T19:50
-updated: 2026-11-09T19:30
+updated: 2026-11-11T16:57
 title: Long Strangle（买入宽跨式）
 publish: true
 ---
@@ -69,5 +69,5 @@ $$
 ## 参见
 
 - [[buy_straddle_vs_long_strangle]]（与 Buy Straddle 的差别与选型）
-- [[buy_straddle_买入跨式]]
+- [[buy_straddle]]
 - [[16. Long Strangle（买入宽跨式组合）]]
