@@ -1,6 +1,6 @@
 ---
 created: 2026-11-09T16:36
-updated: 2026-11-11T14:21
+updated: 2026-11-11T14:44
 title: Sell Put（卖出看跌）
 publish: true
 ---
@@ -67,5 +67,4 @@ $$
 
 ## 参见
 
-- [[裸期权]]
 - [[4. Sell Put]]
