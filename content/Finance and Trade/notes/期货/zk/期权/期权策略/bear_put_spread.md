@@ -6,7 +6,7 @@ publish: true
 ---
 ## 适用场景
 
-短期、中度<mark>看空
+短期、中度<mark>看空</mark>
 
 ## 构造方式
 
@@ -18,10 +18,6 @@ publish: true
 
 > [!Caution]
 > 两腿必须是同一标的、同一到期月。
-
-## 相对单买 Put
-
-卖出低行权价 Put 降低成本，并把盈亏平衡点抬高，代价是封顶最大收益。
 
 ## 风险
 
@@ -72,5 +68,5 @@ $$
 
 ## 参见
 
-- [[bear_call_spread_vs_bear_put_spread]]（与 Bear Call Spread 的差别与选型）
-- [[12. Bear Put Spread（熊市看跌价差）]]
+- [[bear_call_spread_vs_bear_put_spread]]
+- [[12. Bear Put Spread]]
