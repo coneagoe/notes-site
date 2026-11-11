@@ -1,6 +1,6 @@
 ---
 created: 2026-11-09T16:36
-updated: 2026-11-09T19:59
+updated: 2026-11-11T14:21
 title: Buy Call（买入看涨）
 publish: true
 ---
@@ -68,4 +68,5 @@ $$
 
 ## 参见
 
+- [[裸期权]]
 - [[1. Buy Call]]

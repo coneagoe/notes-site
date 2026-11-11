@@ -1,6 +1,6 @@
 ---
 created: 2026-11-09T16:36
-updated: 2026-11-09T19:59
+updated: 2026-11-11T14:21
 title: Sell Call（卖出看涨）
 publish: true
 ---
@@ -68,4 +68,5 @@ $$
 
 ## 参见
 
+- [[裸期权]]
 - [[3. Sell Call]]
