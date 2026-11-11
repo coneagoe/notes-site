@@ -1,12 +1,12 @@
 ---
 created: 2026-11-03T16:28
-updated: 2026-11-09T19:30
-title: Bear Call Spread（熊市看涨价差）
+updated: 2026-11-11T15:54
+title: Bear Call Spread
 publish: true
 ---
 ## 适用场景
 
-短期、中度看空
+短期、中度<mark>看空</mark>
 
 ## 构造方式
 
@@ -18,10 +18,6 @@ publish: true
 
 > [!Caution]
 > 两腿必须是同一标的、同一到期月。
-
-## 相对裸卖 Call
-
-买入高行权价 Call 给卖出 Call 上保险，封顶上行风险，代价是封顶最大收益（等于净权利金）。
 
 ## 风险
 
@@ -74,4 +70,4 @@ $$
 ## 参见
 
 - [[bear_call_spread_vs_bear_put_spread]]
-- [[11. Bear Call Spread（熊市看涨价差）]]
+- [[11. Bear Call Spread]]

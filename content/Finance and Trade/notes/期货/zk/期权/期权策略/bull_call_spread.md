@@ -1,6 +1,6 @@
 ---
 created: 2026-11-08T19:37
-updated: 2026-11-11T15:47
+updated: 2026-11-11T15:53
 title: Bull Call Spread
 publish: true
 ---
@@ -92,5 +92,4 @@ $$
 
 ## 参见
 
-- [[buy_straddle_买入跨式]]
 - [[9. Bull Call Spread]]

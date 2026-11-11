@@ -1,12 +1,12 @@
 ---
 created: 2026-11-03T14:26
-updated: 2026-11-09T19:30
-title: Bear Put Spread（熊市看跌价差）
+updated: 2026-11-11T15:56
+title: Bear Put Spread
 publish: true
 ---
 ## 适用场景
 
-短期、中度看空
+短期、中度<mark>看空
 
 ## 构造方式
 
