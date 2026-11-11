@@ -1,6 +1,6 @@
 ---
 created: 2026-11-08T19:37
-updated: 2026-11-09T19:30
+updated: 2026-11-11T15:28
 title: Bull Call Spread（牛市看涨价差）
 publish: true
 ---
@@ -92,6 +92,5 @@ $$
 
 ## 参见
 
-- [[垂直价差：用第二腿把盈亏同时封顶]]
 - [[buy_straddle_买入跨式]]
 - [[9. Bull Call Spread（牛市看涨价差）]]
