@@ -1,7 +1,7 @@
 ---
 created: 2026-11-03T19:50
-updated: 2026-11-12T13:41
-title: Long Strangle（买入宽跨式）
+updated: 2026-11-12T17:02
+title: Long Strangle
 publish: true
 ---
 ## 适用场景

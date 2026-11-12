@@ -47,7 +47,7 @@ publish: true
 - [[buy_call]]
 - [[buy_put]]
 - [[buy_straddle]]
-- [[long_strangle_买入宽跨式]]
+- [[long_strangle]]
 - [[long_synthetic]]
 - [[sell_call_卖出看涨]]
 - [[sell_put_卖出看跌]]
