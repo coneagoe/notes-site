@@ -1,6 +1,6 @@
 ---
 created: 2026-09-20T15:37
-updated: 2026-11-11T16:25
+updated: 2026-11-12T13:53
 title: short hedge vs long hedge
 publish: true
 ---
@@ -8,7 +8,7 @@ publish: true
 # short hedge vs long hedge
 
 > [!Note]
-> 对冲目标是提前锁定价格，降低风险。临近交割日，$S \approx F$。因为你最终是要买入/卖出现货的。这里我们用平仓的 future price 代替现货价格。
+> 对冲的目的是提前锁定价格，降低风险。临近交割日，$S \approx F$。因为你最终是要买入/卖出现货的。这里我们用平仓的 future price 代替现货价格。
 
 |             | 适用场景                   | 理想预期获利                                         |
 | ----------- | ---------------------- | ---------------------------------------------- |
