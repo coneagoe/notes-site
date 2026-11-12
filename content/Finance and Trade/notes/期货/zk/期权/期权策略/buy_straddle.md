@@ -1,6 +1,6 @@
 ---
 created: 2026-11-05T16:57
-updated: 2026-11-12T13:57
+updated: 2026-11-12T14:10
 title: Buy Straddle
 publish: true
 ---
@@ -18,7 +18,7 @@ publish: true
 - 买入**同一行权价**的 Put
 
 > [!Tips]
-> 实践中，常选接近[[平值_ATM|平值（ATM）]]的行权价。
+> 实践中，常选接近[[平值_ATM|平值]]的行权价。
 
 > [!Caution]
 > 两腿必须是同一标的、同一到期月、同一行权价。
