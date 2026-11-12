@@ -1,9 +1,12 @@
 ---
 created: 2026-11-03T16:28
-updated: 2026-11-12T13:41
+updated: 2026-11-12T15:59
 title: Bear Call Spread
 publish: true
 ---
+> [!caution] 量纲
+> 本文权利金和 BE 计算采用同一量纲（点 / 价格），不乘 [[contract_size_合约规模_交易单位|合约规格]] 。换算金额参见 [[权利金计算]]。
+
 ## 适用场景
 
 短期、中度<mark>看空</mark>
@@ -13,8 +16,6 @@ publish: true
 `Bear Call Spread` 由 2 条腿构成：
 - 卖出 [[实值_ITM|In-the-Money]] Call（较低行权价）
 - 买入 [[虚值_OTM|Out-of-the-Money]] Call（较高行权价）
-
-因卖出 Call 的行权价更低、权利金更高，整体为 **净收入**（`net credit`）。
 
 > [!Caution]
 > 两腿必须是同一标的、同一到期月。
@@ -27,8 +28,7 @@ $$
 \text{最大损失} = (\text{行权价差} - \text{净权利金}) \times \text{手数}
 $$
 
-> [!caution] 量纲
-> 本文权利金和 BE 计算采用同一量纲（点 / 价格），不乘 [[contract_size_合约规模_交易单位|合约规格]] 。换算金额参见 [[权利金计算]]。
+因为卖出 Call 的行权价更低、权利金更高，整体为 **净收入**（`net credit`）。
 
 ## 收益
 
