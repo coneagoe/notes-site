@@ -1,9 +1,12 @@
 ---
 created: 2026-11-09T16:36
-updated: 2026-11-11T14:44
-title: Buy Put（买入看跌）
+updated: 2026-11-12T13:56
+title: Buy Put
 publish: true
 ---
+> [!caution] 量纲
+> 本文权利金和 BE 计算采用同一量纲（点 / 价格），不乘 [[contract_size_合约规模_交易单位|contract size]] 。换算金额参见 [[权利金计算]]。
+
 ## 适用场景
 
 短期看跌
@@ -22,9 +25,6 @@ $$
 $$
 
 标的到期 ≥ 行权价时，Put option 无内在价值。
-
-> [!caution] 量纲
-> 本文权利金和 BE 计算采用同一量纲（点 / 价格），不乘 [[contract_size_合约规模_交易单位|合约规格]] 。换算金额参见 [[权利金计算]]。
 
 ## 收益
 
