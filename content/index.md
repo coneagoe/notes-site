@@ -42,6 +42,7 @@ publish: true
 - [[bear_call_spread]]
 - [[bear_put_spread]]
 - [[bull_call_spread]]
+- [[bull_put_spread]]
 - [[buy_call]]
 - [[buy_put]]
 - [[buy_straddle]]
