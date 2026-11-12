@@ -1,7 +1,11 @@
 ---
 title: 平值（ATM）
 created: 2026-11-12T10:42
-updated: 2026-11-12T11:23
+updated: 2026-11-12T11:25
+tags:
+  - futures
+  - options
+  - atm
 publish: true
 ---
 

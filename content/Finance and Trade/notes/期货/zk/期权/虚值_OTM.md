@@ -1,7 +1,11 @@
 ---
 title: 虚值（OTM）
 created: 2026-11-12T10:42
-updated: 2026-11-12T11:24
+updated: 2026-11-12T11:25
+tags:
+  - futures
+  - options
+  - otm
 publish: true
 ---
 
