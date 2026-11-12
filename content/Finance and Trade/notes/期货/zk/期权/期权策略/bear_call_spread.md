@@ -1,6 +1,6 @@
 ---
 created: 2026-11-03T16:28
-updated: 2026-11-11T15:54
+updated: 2026-11-12T13:41
 title: Bear Call Spread
 publish: true
 ---
@@ -11,8 +11,8 @@ publish: true
 ## 构造方式
 
 `Bear Call Spread` 由 2 条腿构成：
-- 卖出 `In-the-Money` Call（较低行权价）
-- 买入 `Out-of-the-Money` Call（较高行权价）
+- 卖出 [[实值_ITM|In-the-Money]] Call（较低行权价）
+- 买入 [[虚值_OTM|Out-of-the-Money]] Call（较高行权价）
 
 因卖出 Call 的行权价更低、权利金更高，整体为 **净收入**（`net credit`）。
 

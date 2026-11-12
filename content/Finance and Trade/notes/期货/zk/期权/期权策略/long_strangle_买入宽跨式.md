@@ -1,6 +1,6 @@
 ---
 created: 2026-11-03T19:50
-updated: 2026-11-11T16:57
+updated: 2026-11-12T13:41
 title: Long Strangle（买入宽跨式）
 publish: true
 ---
@@ -11,8 +11,8 @@ publish: true
 ## 构造方式
 
 `Long Strangle` 由 2 条腿构成：
-- 买入 `Out-of-the-Money` Put（较低行权价）
-- 买入 `Out-of-the-Money` Call（较高行权价）
+- 买入 [[虚值_OTM|Out-of-the-Money]] Put（较低行权价）
+- 买入 Out-of-the-Money Call（较高行权价）
 
 两腿均为买入虚值期权，整体为 **净付出**（`net debit`）。
 

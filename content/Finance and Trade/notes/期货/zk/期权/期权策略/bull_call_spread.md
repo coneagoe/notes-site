@@ -1,6 +1,6 @@
 ---
 created: 2026-11-08T19:37
-updated: 2026-11-11T15:53
+updated: 2026-11-12T13:41
 title: Bull Call Spread
 publish: true
 ---
@@ -11,8 +11,8 @@ publish: true
 ## 构造方式
 
 `Bull Call Spread` 由 2 条腿构成：
-- 买入 `In-the-Money` Call（较低行权价）
-- 卖出 `Out-of-the-Money` Call（较高行权价）
+- 买入 [[实值_ITM|In-the-Money]] Call（较低行权价）
+- 卖出 [[虚值_OTM|Out-of-the-Money]] Call（较高行权价）
 
 因买入 Call 的行权价更低、权利金更高，整体为 **净付出**（`net debit`）。
 

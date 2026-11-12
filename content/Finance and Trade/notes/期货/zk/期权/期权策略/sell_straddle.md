@@ -1,6 +1,6 @@
 ---
 created: 2026-11-09T14:50
-updated: 2026-11-11T19:47
+updated: 2026-11-12T13:41
 title: Sell Straddle
 publish: true
 ---
@@ -17,7 +17,7 @@ publish: true
 因两腿均为卖出，整体为 **净收入**（`net credit`）。
 
 > [!Tips]
-> 实践中，常选接近平值（ATM）的行权价。
+> 实践中，常选接近[[平值_ATM|平值（ATM）]]的行权价。
 
 > [!Caution]
 > 两腿必须是同一标的、同一到期月、同一行权价。这是高风险策略，仅在预期波动有限时谨慎使用。
