@@ -40,6 +40,7 @@ publish: true
 - [[无限易导出期权报价]]
 - [[期权买方vs期权卖方]]
 - [[bear_call_spread]]
+- [[bear_call_spread_vs_bear_put_spread]]
 - [[bear_put_spread]]
 - [[bull_call_spread]]
 - [[bull_put_spread]]
