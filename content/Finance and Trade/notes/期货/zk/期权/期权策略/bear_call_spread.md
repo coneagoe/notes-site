@@ -1,6 +1,6 @@
 ---
 created: 2026-11-03T16:28
-updated: 2026-11-12T15:59
+updated: 2026-11-12T16:04
 title: Bear Call Spread
 publish: true
 ---
@@ -69,5 +69,4 @@ $$
 
 ## 参见
 
-- [[bear_call_spread_vs_bear_put_spread]]
 - [[11. Bear Call Spread]]
