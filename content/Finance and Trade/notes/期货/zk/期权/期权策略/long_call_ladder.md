@@ -1,6 +1,6 @@
 ---
 created: 2026-11-09T14:50
-updated: 2026-11-13T16:51
+updated: 2026-11-13T17:00
 title: Long Call Ladder
 publish: true
 ---
@@ -71,7 +71,7 @@ $$
 - 5500–5600：平台最大收益 110 点（₹5500，lot=50）
 - 越过 5710：整体转亏，上行按 −1 斜率亏损敞开
 
-![[long_call_ladder_payoff_20261113164858.png]]
+![[long_call_ladder_payoff_20261113170008.png]]
 
 
 ## 参见
