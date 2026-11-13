@@ -50,6 +50,7 @@ publish: true
 - [[call_backspread]]
 - [[long_strangle]]
 - [[long_synthetic]]
+- [[put_backspread]]
 - [[sell_call_卖出看涨]]
 - [[sell_put_卖出看跌]]
 - [[sell_straddle]]
