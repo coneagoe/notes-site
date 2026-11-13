@@ -1,6 +1,6 @@
 ---
 created: 2026-11-13T16:27
-updated: 2026-11-13T16:27
+updated: 2026-11-13T16:32
 title: Strip
 publish: true
 ---
@@ -80,7 +80,4 @@ $$
 
 ## 参见
 
-- [[strap]]
-- [[buy_straddle]]
-- [[带方向的买波动：Strap、Strip 与 Backspread]]
 - [[19. Strip]]
