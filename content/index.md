@@ -58,6 +58,7 @@ publish: true
 - [[short_strangle]]
 - [[short_synthetic]]
 - [[strap]]
+- [[strip]]
 - [[权利金计算]]
 - [[虚值_OTM]]
 - [[1_from_poweron_to_bootloader]]
