@@ -1,6 +1,6 @@
 ---
 created: 2026-11-12T16:34
-updated: 2026-11-13T13:59
+updated: 2026-11-13T14:29
 title: Call Backspread
 publish: true
 ---
@@ -9,7 +9,7 @@ publish: true
 
 ## 适用场景
 
-看多标的方向，同时看多波动率。
+<mark>看多</mark>标的方向，同时<mark>看多波动率</mark>。
 
 如果对市场同时抱有多空预期，但偏向上涨，该策略也表现较好。
 
