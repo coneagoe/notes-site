@@ -55,6 +55,7 @@ publish: true
 - [[sell_call_卖出看涨]]
 - [[sell_put_卖出看跌]]
 - [[sell_straddle]]
+- [[short_strangle]]
 - [[short_synthetic]]
 - [[权利金计算]]
 - [[虚值_OTM]]
