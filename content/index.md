@@ -48,6 +48,7 @@ publish: true
 - [[buy_put]]
 - [[buy_straddle]]
 - [[call_backspread]]
+- [[long_combo]]
 - [[long_strangle]]
 - [[long_synthetic]]
 - [[put_backspread]]

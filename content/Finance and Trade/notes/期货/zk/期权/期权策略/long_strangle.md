@@ -1,9 +1,12 @@
 ---
 created: 2026-11-03T19:50
-updated: 2026-11-12T17:02
+updated: 2026-11-13T15:22
 title: Long Strangle
 publish: true
 ---
+> [!caution] 量纲
+> 本文权利金和 BE 计算采用同一量纲（点 / 价格），不乘 [[contract_size_合约规模_交易单位|合约规格]] 。换算金额参见 [[权利金计算]]。
+
 ## 适用场景
 
 方向中性、看多波动率（预期标的大幅上涨或下跌）
@@ -28,9 +31,6 @@ $$
 $$
 
 最大亏损落在两个行权价之间（含两端）：两腿到期均无内在价值。
-
-> [!caution] 量纲
-> 本文权利金和 BE 计算采用同一量纲（点 / 价格），不乘 [[contract_size_合约规模_交易单位|合约规格]] 。换算金额参见 [[权利金计算]]。
 
 ## 收益
 
@@ -68,6 +68,4 @@ $$
 
 ## 参见
 
-- [[buy_straddle_vs_long_strangle]]（与 Buy Straddle 的差别与选型）
-- [[buy_straddle]]
 - [[16. Long Strangle（买入宽跨式组合）]]
