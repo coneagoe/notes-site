@@ -1,6 +1,6 @@
 ---
 created: 2026-11-03T19:50
-updated: 2026-11-13T15:24
+updated: 2026-11-13T15:31
 title: Long Strangle
 publish: true
 ---
@@ -75,4 +75,4 @@ $$
 
 ## 参见
 
-- [[16. Long Strangle（买入宽跨式组合）]]
+- [[16. Long Strangle]]
