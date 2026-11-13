@@ -1,6 +1,6 @@
 ---
 created: 2026-11-12T16:34
-updated: 2026-11-12T23:11
+updated: 2026-11-13T13:59
 title: Call Backspread
 publish: true
 ---
@@ -84,3 +84,4 @@ $$
 ## 参见
 
 - [[13. Call Backspread]]
+- [[put_backspread]]
