@@ -1,6 +1,6 @@
 ---
 created: 2026-11-11T20:15
-updated: 2026-11-12T15:42
+updated: 2026-11-13T14:57
 title: Long Synthetic
 publish: true
 ---
@@ -75,5 +75,3 @@ $$
 ## 参见
 
 - [[7. Long Synthetic]]
-- [[short_synthetic]]
-- [[合成期货：用 Call 和 Put 复制标的]]
