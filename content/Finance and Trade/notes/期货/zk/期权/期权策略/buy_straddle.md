@@ -1,6 +1,6 @@
 ---
 created: 2026-11-05T16:57
-updated: 2026-11-12T17:02
+updated: 2026-11-13T16:15
 title: Buy Straddle
 publish: true
 ---
