@@ -1,6 +1,6 @@
 ---
 created: 2026-11-09T16:36
-updated: 2026-11-15T12:09
+updated: 2026-11-15T14:45
 title: Sell Call
 publish: true
 ---
@@ -69,3 +69,4 @@ $$
 ## 参见
 
 - [[3. Sell Call]]
+
