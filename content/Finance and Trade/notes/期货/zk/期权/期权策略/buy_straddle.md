@@ -1,6 +1,6 @@
 ---
 created: 2026-11-05T16:57
-updated: 2026-11-13T16:15
+updated: 2026-11-20T17:04
 title: Buy Straddle
 publish: true
 ---
@@ -104,8 +104,7 @@ $$
 
 ## 参见
 
+- [[对波动率下注]]
 - [[buy_straddle_vs_long_strangle]]
 - [[5. Buy Straddle]]
-- [[跨式与宽跨式：只对波动率下注]]
 - [[long_strangle]]
-- [[带方向的买波动：Strap、Strip 与 Backspread]]
