@@ -1,6 +1,6 @@
 ---
 created: 2026-11-09T14:50
-updated: 2026-11-20T15:47
+updated: 2026-11-20T20:31
 title: Long Call Condor
 publish: true
 ---
@@ -19,7 +19,7 @@ publish: true
 - 卖出次高行权价 Call
 - 买入最高行权价 Call
 
-与 [[long_call_butterfly|long call butterfly]] 很像；差别是两笔卖出腿行权价不同，盈利平台通常更宽。亦可用 Put 构造同类形态。
+在 [[short_strangle|short strangle]] 的基础上，两边加一条腿。亦可用 Put 构造同类形态。
 
 > [!Caution]
 > 四腿必须是同一标的、同一到期月。

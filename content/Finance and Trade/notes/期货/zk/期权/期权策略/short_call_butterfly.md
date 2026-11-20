@@ -1,6 +1,6 @@
 ---
 created: 2026-11-09T14:50
-updated: 2026-11-20T16:08
+updated: 2026-11-20T20:07
 title: Short Call Butterfly
 publish: true
 ---
@@ -18,7 +18,7 @@ publish: true
 - 买入 2 张中间行权价 Call（[[平值_ATM|ATM]]）
 - 卖出 1 张较高行权价 Call（[[虚值_OTM|OTM]]）
 
-是 [[long_call_butterfly|long call butterfly]] 的反向。相较 Straddle / Strangle，收益与风险都更小。亦可用 Put 构造同类形态。
+在 [[buy_straddle|buy straddle]] 的基础上，两侧加了条保护腿。收益与风险都更小。亦可用 Put 构造同类形态。
 
 > [!Caution]
 > 各腿必须是同一标的、同一到期月；中间腿为 2 倍张数。
