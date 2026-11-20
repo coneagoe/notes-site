@@ -1,6 +1,6 @@
 ---
 created: 2026-11-08T19:37
-updated: 2026-11-20T16:16
+updated: 2026-11-20T16:15
 title: Bull Call Spread
 publish: true
 ---
