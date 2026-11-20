@@ -58,6 +58,7 @@ publish: true
 - [[sell_call]]
 - [[sell_put]]
 - [[sell_straddle]]
+- [[short_call_butterfly]]
 - [[short_strangle]]
 - [[short_synthetic]]
 - [[strap]]
