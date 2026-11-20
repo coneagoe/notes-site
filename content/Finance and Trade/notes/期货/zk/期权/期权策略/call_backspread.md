@@ -1,6 +1,6 @@
 ---
 created: 2026-11-12T16:34
-updated: 2026-11-13T14:29
+updated: 2026-11-20T19:45
 title: Call Backspread
 publish: true
 ---
@@ -20,7 +20,7 @@ publish: true
 - 买入 2 份 [[虚值_OTM|Out-of-the-Money]] Call（较高行权价，同一执行价）
 
 > [!Note]
-> 我们可以把它看成一个 [[bear_call_spread|bear call spread]] + 一个 [[buy_call|buy call]]。payoff 也是这两者的叠加。
+> 我们可以把它看成一个 [[buy_straddle|buy straddle]] + 一个 [[buy_call|buy call]]。payoff 也是这两者的叠加。
 
 > [!Caution]
 > 两腿必须是同一标的、同一到期月。
