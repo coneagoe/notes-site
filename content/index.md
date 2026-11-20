@@ -49,6 +49,7 @@ publish: true
 - [[buy_put]]
 - [[buy_straddle]]
 - [[call_backspread]]
+- [[long_call_condor]]
 - [[long_call_ladder]]
 - [[long_combo]]
 - [[long_strangle]]
